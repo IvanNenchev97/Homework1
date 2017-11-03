@@ -7,7 +7,7 @@ int main()
 	cin>>n;
 	for(i=1;i<=n;i++)
 	{
-		cout<<"Enter element:"
+		cout<<"Enter element:";
 		cin>>number;
 		sum=sum+number;
 	}
